@@ -2,6 +2,7 @@
     "name": "rareloop/wp-cookie-banner",
     "description": "Provides an obnoxious cookie warning",
     "type": "wordpress-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joe Lambert",
